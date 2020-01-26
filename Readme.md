@@ -1,5 +1,3 @@
-##Description
-
 **Le jeu de données:**
 
 - Les données sont divisées en 2 parties : 
