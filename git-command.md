@@ -35,7 +35,7 @@ Commit your changes
 The option is for adding a label to the commit 
   
 ```php
-git remote add origin https://github.com/<your-github-username>/my-first-blog.git
+git remote add origin https://github.com/aminebennani25/CenseProject
 ```
 Updates your current local working branch with all new commits from the corresponding branch on GitHub
 ```shell
