@@ -50,7 +50,7 @@ You can verify your remote
 
 Switch to the specified branch (Our work will be generally on branch-name:"Dev")
 ```shell
-- git checkout <branch-name>
+  git checkout <branch-name>
 ```
 
 Verify in which branch you are and what are the new modification 
@@ -63,9 +63,9 @@ You can check the log also
   git log
 ```
 
-Add the changes
+Add the changes 
 ```shell
-- git add <file>
+  git add <file>
  ```
  
 Commit your changes (The option is for adding a label to the commit)
