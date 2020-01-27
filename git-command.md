@@ -1,14 +1,14 @@
 ## Memento git command
 
-**If it's your first time to use Git, please follow instructions bellow** <br>
+### If it's your first time to use Git, please follow instructions bellow <br>
 
 **I- The first part, you will have to do it only once.**
 
-1- Fisrt step is to create an account in github 
+  1. Fisrt step is to create an account on github 
 
-2- Download git from URL:  https://git-scm.com/downloads
+  2. Download git from URL:  https://git-scm.com/downloads
 
-3- Open a new git bash and tap following command:
+  3. Open a new git bash and tap following command:
 
 Create a directory 
 ```shell
